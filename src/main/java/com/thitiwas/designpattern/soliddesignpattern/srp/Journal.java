@@ -1,4 +1,4 @@
-package com.thitiwas.designpattern.soliddesignpattern;
+package com.thitiwas.designpattern.soliddesignpattern.srp;
 
 import java.io.File;
 import java.io.PrintStream;
