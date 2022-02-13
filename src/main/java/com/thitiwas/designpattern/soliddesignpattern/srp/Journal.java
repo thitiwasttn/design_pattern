@@ -6,6 +6,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+// SRP
 public class Journal {
     private final List<String> entries = new ArrayList<>();
 
